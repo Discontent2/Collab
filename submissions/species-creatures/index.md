@@ -4,7 +4,7 @@
 **Owner Review Required:** Yes  
 **Repository:** Discontent2/Collab  
 **Folder:** `submissions/species-creatures/`  
-**Index Scope:** D20 Chance Creature Creation Game intake creatures currently saved by the Collaborator Intake Room  
+**Index Scope:** D20 Chance Creature Creation Game and image-seeded intake creatures currently saved by the Collaborator Intake Room  
 
 ---
 
@@ -49,12 +49,14 @@ Additional tags are search aids only. They are not canon claims.
 | Patch-Echo Courier | `patch-echo-courier.md` | Human-sized industrial-adapted routefinder organism that moves when unobserved and is often misclassified as a cyborg raptor-human mutant. | Moderate | Subtext Only | accept-for-sandbox | creature, species-creature, encounter-fauna, industrial-adapted, worm-bodied, ribbon-bodied, human-sized, worldskin-test-patch, moves-when-unobserved, vibration-feelers, herd-defense, black-market-fakes, corporate-propaganda-mascot, traveler-aid, misclassification, non-canon, owner-review-required |
 | Clatter-Skull Runnelraptor | `clatter-skull-runnelraptor.md` | Dog-sized skull-faced roadside scavenger that nests in refuse cans and mimics trash, tools, and maintenance clatter. | Moderate | Open | accept-for-sandbox | creature, species-creature, encounter-fauna, roadside-scavenger, saurian-adjacent, velociraptor-like, trash-ecology, refuse-feeder, false-face-markings, mechanical-mimicry, illegal-trade-object, bad-classification, visually-iconic, labor-culture, non-canon, owner-review-required |
 | Dockmaw Tendril-Rex | `dockmaw-tendril-rex.md` | Small-vehicle-sized canyon scavenger with a T. rex-like docking jaw, shell armor, and anchoring tendrils that make it resemble aircraft wreckage. | Moderate | Open | accept-for-sandbox | creature, species-creature, encounter-fauna, roadside-scavenger, saurian-adjacent, dry-canyon, small-vehicle-sized, anchoring-tendrils, mineral-taste-organs, shell-armor, misclassified-by-authorities, hazard, world-works-ecology-language, bio-mechanical-look, recurring-creature-candidate, non-canon, owner-review-required |
+| Violet Crown Root-Giant | `violet-crown-root-giant.md` | Image-seeded myco-arboreal wetland giant with violet fungal crown, root-body ecology, and sanctuary / Worldskin pressure. | Moderate | Subtext Only | needs-revision | creature, species-creature, encounter-fauna, image-seeded, myco-arboreal, root-giant, fungal-creature, wetland, drowned-forest, world-works, sanctuary-adjacent, worldskin-adjacent, false-sanctuary-pressure, moral-encounter, non-canon, owner-review-required |
+| One-Eye Ossuary Runner | `one-eye-ossuary-runner.md` | Image-seeded skull-headed, golden-eyed lab-ruin runner often misclassified as alien, undead, or a hidden-system guardian. | Moderate | Subtext Only | needs-revision | creature, species-creature, encounter-fauna, image-seeded, skull-headed, one-eyed, golden-eye, ossuary, lab-ruin, biomechanical-look, alien-rumor, false-sanctuary-pressure, misclassification, black-market-myth, horror-atmosphere, non-canon, owner-review-required |
 
 ---
 
 ## Review Notes
 
-These creatures were generated through the D20 Chance Creature Creation Game or related creature-intake workflow. Each file should be reviewed individually before any sandbox promotion.
+These creatures were generated through the D20 Chance Creature Creation Game, image-seeded creature intake, or related creature-intake workflow. Each file should be reviewed individually before any sandbox promotion.
 
 Before promotion, prepare a promotion packet that includes:
 
