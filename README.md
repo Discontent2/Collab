@@ -39,6 +39,8 @@ Browse the **[Comic Submissions Index](submissions/comics/README.md)** for proje
 
 - **[D-REX: The King of the Ruins — Project Index](submissions/comics/d-rex-the-king-of-the-ruins/README.md)**: standalone dinosaur/prehistoric monster comic, with a searchable inventory of project documents.
 - **[D-REX Comic Art Style Guide](submissions/comics/d-rex-the-king-of-the-ruins/art-style-guide.md)**: 1970s Bronze Age comic style, Ray Harryhausen-inspired stop-motion creatures, inks, halftone, palette, page design, reusable art prompt.
+- **[D-REX Complete Story Archive](submissions/comics/d-rex-the-king-of-the-ruins/README.md)**: Chapter One *The Law of Teeth*, Chapter Two *Beneath the Crown*, Page 2 visual analysis, Gravenmaw ancient apex predator bestiary, character continuity, *The Buried Crown* three-issue plan.
+- **[Gravenmaw Creature Bible](submissions/comics/d-rex-the-king-of-the-ruins/creature-gravenmaw-ancient-apex-predator.md)**: armored subterranean predator ecology and matriarch design, searchable by Gravenmaw / The Oldest Hunger.
 - **[The Deviations](submissions/comics/the-deviations/README.md)**: Meridian Prime newspaper gag-panel comic intake.
 
 These are navigation links to intake materials. Indexing does **not** approve a submission or grant canon status.
