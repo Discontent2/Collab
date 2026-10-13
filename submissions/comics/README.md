@@ -8,7 +8,7 @@
 
 | Comic / Project | Browse | Key document | Description |
 | --- | --- | --- | --- |
-| **D-REX: The King of the Ruins** | [D-REX project index](d-rex-the-king-of-the-ruins/README.md) | [Comic Art Style Guide](d-rex-the-king-of-the-ruins/art-style-guide.md) | 1970s Bronze Age, pulp dinosaur adventure, Harryhausen-inspired creature design, vintage inks, six-color reference palette, halftone printing, panel layouts and reuse-ready art prompt. Standalone project; not Meridian Prime canon. |
+| **D-REX: The King of the Ruins** | [D-REX project and file index](d-rex-the-king-of-the-ruins/README.md) | [Art Style](d-rex-the-king-of-the-ruins/art-style-guide.md) · [Page Analysis](d-rex-the-king-of-the-ruins/page-02-visual-narrative-analysis.md) · [Chapter 1](d-rex-the-king-of-the-ruins/story-chapter-01-the-law-of-teeth.md) · [Gravenmaw Bestiary](d-rex-the-king-of-the-ruins/creature-gravenmaw-ancient-apex-predator.md) · [Chapter 2](d-rex-the-king-of-the-ruins/story-chapter-02-beneath-the-crown.md) · [Characters](d-rex-the-king-of-the-ruins/characters-and-continuity.md) · [Series Plan](d-rex-the-king-of-the-ruins/series-arc-and-production-notes.md) | Standalone prehistoric monster comic; expanded storyline, ancient armored predator, 1970s pulp art treatment, three-issue arc and 12-page Issue #1 plan. All material non-canon intake. |
 | **The Deviations** | [The Deviations project overview](the-deviations/README.md) | [Panel submission template](the-deviations/panel-submission-template.md) | One-panel absurdist newspaper gag comic within the Meridian Prime setting; its house style differs from D-REX. |
 
 ## Quick find: D-REX visual style
@@ -18,6 +18,16 @@ Looking for the **D-REX art style**, the **1970s dinosaur-comic look**, or the *
 Go directly to **[D-REX: The King of the Ruins — Comic Art Style Guide](d-rex-the-king-of-the-ruins/art-style-guide.md)**.
 
 Search terms: `D-REX`, `King of the Ruins`, `D Rex`, `dinosaur`, `comic art style`, `Bronze Age`, `1970s`, `stop motion`, `pulp`, `monster`, `halftone`, `hatching`.
+
+## Quick find: D-REX story, Gravenmaw and issue plan
+
+- **Full D-REX story:** [Chapter 1 — The Law of Teeth](d-rex-the-king-of-the-ruins/story-chapter-01-the-law-of-teeth.md) and [Chapter 2 — Beneath the Crown](d-rex-the-king-of-the-ruins/story-chapter-02-beneath-the-crown.md).
+- **Ancient armored monster:** [Gravenmaw bestiary](d-rex-the-king-of-the-ruins/creature-gravenmaw-ancient-apex-predator.md).
+- **Cast, body language, design:** [Character roster](d-rex-the-king-of-the-ruins/characters-and-continuity.md).
+- **Issue #1, issue #2, issue #3 and twelve-page production map:** [Series arc](d-rex-the-king-of-the-ruins/series-arc-and-production-notes.md).
+- **Original comic page critique:** [Page 2 narrative and visual analysis](d-rex-the-king-of-the-ruins/page-02-visual-narrative-analysis.md).
+
+Search aliases: `Gravenmaw`, `The Oldest Hunger`, `The Buried Crown`, `The Law of Teeth`, `Beneath the Crown`, `D-Rex`, `Rook`, `Slate`, `Ashcrest`, `ancient apex predator`, `prehistoric comic`.
 
 ## Adding future comics
 
