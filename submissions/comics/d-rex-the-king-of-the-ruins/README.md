@@ -10,6 +10,7 @@
 
 | Document | Description | Status |
 | --- | --- | --- |
+| **[Issue #1 Complete Comic Script: The Law of Teeth](issue-01-the-law-of-teeth-comic-script.md)** | **12 complete pages, 55 numbered panels**, comic art directions, narration captions, SFX, courtyard map, character locks, matriarch cliffhanger, editorial review checks. This is the current working sequential-art draft, adapted from both prose chapters. | **New first draft, for owner review** |
 | **[Art Style Guide](art-style-guide.md)** | Existing 1970s Bronze Age art reference, color palette, linework, halftone, lettering and reusable production prompt. | Prior saved intake guide; unchanged |
 | **[Page 2 Visual & Narrative Analysis](page-02-visual-narrative-analysis.md)** | Deep examination of all six panels, dinosaur body language, dramatic structure, the page's captions, ruined geography and visual clues. | New analysis draft |
 | **[Chapter One: The Law of Teeth](story-chapter-01-the-law-of-teeth.md)** | Full original short story: D-Rex's return, Slate's challenge, first Gravenmaw emergence, and sealed-gateway cliffhanger. | New story draft |
@@ -20,9 +21,13 @@
 
 ### Suggested reading order
 
-Read **[Page 2 Analysis](page-02-visual-narrative-analysis.md)** → **[Chapter One](story-chapter-01-the-law-of-teeth.md)** → **[Gravenmaw Bestiary](creature-gravenmaw-ancient-apex-predator.md)** → **[Chapter Two](story-chapter-02-beneath-the-crown.md)** → **[Characters](characters-and-continuity.md)** → **[Series Plan](series-arc-and-production-notes.md)**.
+For **page-by-page illustration or lettering**, start with the **[complete Issue #1 comic script](issue-01-the-law-of-teeth-comic-script.md)** and [Art Style Guide](art-style-guide.md). For background continuity, read **[Page 2 Analysis](page-02-visual-narrative-analysis.md)** → **[Chapter One](story-chapter-01-the-law-of-teeth.md)** → **[Gravenmaw Bestiary](creature-gravenmaw-ancient-apex-predator.md)** → **[Chapter Two](story-chapter-02-beneath-the-crown.md)** → **[Characters](characters-and-continuity.md)** → **[Series Plan](series-arc-and-production-notes.md)**.
 
 The original [Art Style Guide](art-style-guide.md) governs illustrations throughout; the new story notes do not overwrite it.
+
+### Latest save checkpoint — 2026-10-12: Issue #1 scripted
+
+The project now includes the **[complete 12-page / 55-panel first-draft Issue #1 script](issue-01-the-law-of-teeth-comic-script.md)**. It converts the narrative outline into drawable panels, exact narration and sound effects, recurring landmark positions, page-turn reveals, and a final-page matriarch splash. The earlier 12-page beat map remains historical planning reference. **No new comic artwork was uploaded in this save.** Script requires owner review and character reference sheets before production.
 
 ### Save checkpoint — 2026-10-12
 
@@ -37,7 +42,7 @@ For full specifications and reusable prompts, always consult the [Art Style Guid
 
 ## Search keywords and aliases
 
-`D-REX` · `D Rex` · `D-Rex: The King of the Ruins` · `The King of the Ruins` · `The Law of Teeth` · `Beneath the Crown` · `The Buried Crown` · `Gravenmaw` · `The Oldest Hunger` · `matriarch` · `Rook` · `Slate` · `Ashcrest` · `ancient apex predator` · `dinosaur comic` · `Ray Harryhausen` · `stop motion` · `Bronze Age` · `1970s comics` · `pulp fantasy` · `comic page analysis` · `comic art style` · `three issue arc` · `12-page script` · `halftone` · `crosshatching` · `monster adventure`
+`D-REX` · `D Rex` · `D-Rex: The King of the Ruins` · `The King of the Ruins` · `The Law of Teeth` · `Beneath the Crown` · `The Buried Crown` · `Gravenmaw` · `The Oldest Hunger` · `matriarch` · `Rook` · `Slate` · `Ashcrest` · `ancient apex predator` · `dinosaur comic` · `Ray Harryhausen` · `stop motion` · `Bronze Age` · `1970s comics` · `pulp fantasy` · `comic page analysis` · `comic art style` · `three issue arc` · `12-page script` · `Issue 1 comic script` · `55 panels` · `page-by-page storyboard` · `lettering script` · `The Law of Teeth full script` · `halftone` · `crosshatching` · `monster adventure`
 
 ## Navigation
 
