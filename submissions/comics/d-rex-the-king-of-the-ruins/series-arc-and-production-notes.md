@@ -23,7 +23,7 @@
 4. Established **Gravenmaw / The Oldest Hunger** as a naturally evolved armored carnivore lineage sustained by a subterranean ecosystem. See [Bestiary](creature-gravenmaw-ancient-apex-predator.md).
 5. Developed D-Rex, Rook, Slate, Ashcrest, the ordinary stegosaur, Gravenmaw adults and the massive matriarch. See [Character Roster](characters-and-continuity.md).
 6. Drafted the long prose continuation **Beneath the Crown**, where the gate breaks, Gravenmaw adults emerge, D-Rex recognizes a childhood attacker, and the matriarch is revealed. See [Chapter Two](story-chapter-02-beneath-the-crown.md).
-7. Proposed a three-issue series arc, distinct palettes for surface and underworld, and a **complete twelve-page script for Issue #1** as the next milestone.
+7. Proposed a three-issue series arc, distinct palettes for surface and underworld; the **complete twelve-page script for Issue #1 has now been drafted** and archived as [The Law of Teeth — Complete Issue #1 Comic Script](issue-01-the-law-of-teeth-comic-script.md).
 
 ## Central Premise
 
@@ -45,7 +45,7 @@ The strongest creature in the kingdom may not be its rightful king. Ancient ruin
 - The fortress's sealed gate cracks open.
 - **Comic adaptation cliffhanger target:** Great Gravenmaw matriarch rises in the collapsing darkness. A suspenseful final-page reveal gives the first issue a visually decisive endpoint.
 
-**Script plan:** Twelve full pages, deliberate pacing, readable dinosaur acting, and a final splash reveal. The original six-panel page-two comic should be treated as **visual reference** rather than a fixed six-panel layout for the finished adaptation. The longer prose chapters can be redistributed across the twelve pages.
+**Script status (updated 2026-10-12):** The complete [12-page / 55-panel first-draft comic script](issue-01-the-law-of-teeth-comic-script.md) is written and awaiting owner review. It follows the major beats below with deliberate pacing, readable animal acting, and a full-page matriarch reveal. The original six-panel page-two comic should be treated as **visual reference** rather than a fixed six-panel layout for the finished adaptation. The longer prose chapters can be redistributed across the twelve pages.
 
 ### Issue #2 — The River Below
 
@@ -119,7 +119,7 @@ The source concept developed from 8-second transitions of the stop-motion-inspir
 - Roar as distinct communication: territorial challenge, warning, defensive alarm, pain.
 - Pacing through uneasy stillness before violent motion.
 
-## Suggested Twelve-Page Script Beat Map for Issue #1 (not yet a completed script)
+## Original Twelve-Page Beat Map for Issue #1 (historical outline; full draft now written)
 
 | Page | Primary story beat | Image priority |
 | --- | --- | --- |
@@ -136,14 +136,14 @@ The source concept developed from 8-second transitions of the stop-motion-inspir
 | 11 | Gateway collapses; water flows uphill/changes course | Environmental catastrophe |
 | 12 | The matriarch silhouette, eye and massive head revealed | Full-page cliffhanger splash |
 
-*This is an initial editorial map, not an approved detailed script. The prose Chapter Two provides potential action that may be moved between Issue #1 and #2. In particular, the exact gate-collapse timeline should be reconciled before storyboards.*
+*This was the initial editorial map. For actual panel descriptions, caption text, SFX, and resolved staging, use the complete [Issue #1 Script](issue-01-the-law-of-teeth-comic-script.md). The prose chapters remain separate; the comic script deliberately redistributes some Chapter Two events.*
 
 ## Production Milestones
 
 1. Owner reviews **Gravenmaw**, the matriarch, and roles of Rook, Slate and Ashcrest.
 2. Create consistent size/turnaround sheets for D-Rex, Gravenmaw adult, Gravenmaw matriarch, and supporting dinosaurs.
 3. Map courtyard gates, arches, stairs, collapse route and underworld river exits.
-4. Draft a **complete twelve-page panel-by-panel Issue #1 script** from the provisional page map.
+4. **Draft completed on 2026-10-12:** [Full 12-page / 55-panel Issue #1 script](issue-01-the-law-of-teeth-comic-script.md). Next: owner review and any requested editorial revisions.
 5. Illustrate pages one and two, validate the analog Bronze Age print look, then complete the issue.
 6. Review page lettering and continuity against source comic before any publication or sandbox promotion.
 
@@ -159,6 +159,7 @@ The source concept developed from 8-second transitions of the stop-motion-inspir
 
 ## Index and Cross-References
 
+- **[COMPLETE ISSUE #1 COMIC SCRIPT — THE LAW OF TEETH](issue-01-the-law-of-teeth-comic-script.md)** (12 pages / 55 panels; current draft for illustration and lettering)
 - [Page 2 Analysis](page-02-visual-narrative-analysis.md)
 - [Chapter One: The Law of Teeth](story-chapter-01-the-law-of-teeth.md)
 - [Gravenmaw Bestiary](creature-gravenmaw-ancient-apex-predator.md)
