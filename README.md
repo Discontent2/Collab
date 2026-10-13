@@ -33,6 +33,16 @@ Review outcomes live under:
 review/
 ```
 
+## Find Comic Projects and Art Guides
+
+Browse the **[Comic Submissions Index](submissions/comics/README.md)** for project-specific documents.
+
+- **[D-REX: The King of the Ruins — Project Index](submissions/comics/d-rex-the-king-of-the-ruins/README.md)**: standalone dinosaur/prehistoric monster comic, with a searchable inventory of project documents.
+- **[D-REX Comic Art Style Guide](submissions/comics/d-rex-the-king-of-the-ruins/art-style-guide.md)**: 1970s Bronze Age comic style, Ray Harryhausen-inspired stop-motion creatures, inks, halftone, palette, page design, reusable art prompt.
+- **[The Deviations](submissions/comics/the-deviations/README.md)**: Meridian Prime newspaper gag-panel comic intake.
+
+These are navigation links to intake materials. Indexing does **not** approve a submission or grant canon status.
+
 ## Promotion Chain
 
 ```text
